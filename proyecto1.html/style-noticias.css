@@ -1,0 +1,32 @@
+#menu{
+    background-color: rgb(16, 17, 17);
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+
+}
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a{
+    color: white;
+    padding: 20px 20px;
+    display: block;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color: rgb(69, 125, 172);
+
+}
+.item-r{
+    float: right;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(235, 234, 234);
+    text-align: left;
+}
